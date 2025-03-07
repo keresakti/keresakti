@@ -1,7 +1,6 @@
 <br clear="both">
 
 <h2 align="center">KERESAKTI</h2>
-###
 
 <br clear="both">
 
