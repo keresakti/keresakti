@@ -1,15 +1,6 @@
 <br clear="both">
 
 <h2 align="center">KERESAKTI</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam93aXl4dGltNnAxbnNsMGxhZzQ4bDJueGdyNGZjOGZjd3V1cTY2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41Yn4bHR9tK21Ygo/giphy.gif"  />
-</div>
-
 ###
 
 <br clear="both">
